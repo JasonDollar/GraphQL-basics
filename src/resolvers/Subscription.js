@@ -14,6 +14,7 @@ const Subscription = {
       return pubsub.asyncIterator('post')
     },
   },
+
 }
 
 export default Subscription
