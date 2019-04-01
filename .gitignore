@@ -4,3 +4,4 @@ src/config.js
 
 prisma/docker-compose.yml
 prisma/prisma.yml
+prisma-review
